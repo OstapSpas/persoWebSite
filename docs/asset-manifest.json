@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a56acd1.css",
-    "main.js": "/static/js/main.e29dc01e.js",
-    "static/js/488.b6da4f5d.chunk.js": "/static/js/488.b6da4f5d.chunk.js",
-    "static/media/instagram.svg": "/static/media/instagram.1f338182fdcfc3b4b3e0d7a2dbbde9b1.svg",
-    "static/media/facebook.svg": "/static/media/facebook.723977d46870e0392d48c62a6a3712f0.svg",
-    "static/media/Hero1.png": "/static/media/Hero1.01d67abf6c1f62e750c0.png",
-    "static/media/Group4.svg": "/static/media/Group4.2774020353b5e056ee001dd4f2cc5f95.svg",
-    "index.html": "/index.html",
-    "main.0a56acd1.css.map": "/static/css/main.0a56acd1.css.map",
-    "main.e29dc01e.js.map": "/static/js/main.e29dc01e.js.map",
-    "488.b6da4f5d.chunk.js.map": "/static/js/488.b6da4f5d.chunk.js.map"
+    "main.css": "/persoWebSite/static/css/main.0a56acd1.css",
+    "main.js": "/persoWebSite/static/js/main.11cfebc3.js",
+    "static/js/488.b6da4f5d.chunk.js": "/persoWebSite/static/js/488.b6da4f5d.chunk.js",
+    "static/media/instagram.svg": "/persoWebSite/static/media/instagram.1f338182fdcfc3b4b3e0d7a2dbbde9b1.svg",
+    "static/media/facebook.svg": "/persoWebSite/static/media/facebook.723977d46870e0392d48c62a6a3712f0.svg",
+    "static/media/Hero1.png": "/persoWebSite/static/media/Hero1.01d67abf6c1f62e750c0.png",
+    "static/media/Group4.svg": "/persoWebSite/static/media/Group4.2774020353b5e056ee001dd4f2cc5f95.svg",
+    "index.html": "/persoWebSite/index.html",
+    "main.0a56acd1.css.map": "/persoWebSite/static/css/main.0a56acd1.css.map",
+    "main.11cfebc3.js.map": "/persoWebSite/static/js/main.11cfebc3.js.map",
+    "488.b6da4f5d.chunk.js.map": "/persoWebSite/static/js/488.b6da4f5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a56acd1.css",
-    "static/js/main.e29dc01e.js"
+    "static/js/main.11cfebc3.js"
   ]
 }
